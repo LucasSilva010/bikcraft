@@ -53,14 +53,5 @@
     padding: 40px 20px;
     justify-self: center;
   }
-
-  .depoimento p::before {
-    content: "“";
-    left: -25px;
-    top: -20px;
-  }
-  .depoimento p::after {
-    position: absolute;
-    left: 95%;
-  }
+  
 }
